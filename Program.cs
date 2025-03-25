@@ -23,7 +23,7 @@ do
         y--;
     else if (keyPress==ConsoleKey.DownArrow && map[Console.CursorTop+1][Console.CursorLeft] != '#')
         y++;
-    else if (keyPress==ConsoleKey.A && map[Console.CursorTop = 4][Console.CursorLeft = 23] != '#') //Illusory wall, loser
+    else if (keyPress==ConsoleKey.A && Console.CursorTop == 3 && Console.CursorLeft == 24) //Illusory wall, loser
         map = File.ReadAllLines("map2.txt");
     Console.Clear();
     foreach (string row in map)
@@ -38,7 +38,7 @@ do
     if (map[Console.CursorTop][Console.CursorLeft]=='*')
     {
         Console.Clear();
-        Console.WriteLine($"You got through?!!??!? Press Enter to end.");
+        Console.WriteLine($"You got through?!!??!? (press enter to continue)");
         if (Console.ReadKey(true).Key == ConsoleKey.Enter)
         break;
     } 

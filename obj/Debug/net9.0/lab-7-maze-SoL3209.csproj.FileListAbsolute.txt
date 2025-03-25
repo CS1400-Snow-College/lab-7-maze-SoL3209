@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\bin\Debug\net9.0\lab-7-maze-SoL3209.exe
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\bin\Debug\net9.0\lab-7-maze-SoL3209.deps.json
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\bin\Debug\net9.0\lab-7-maze-SoL3209.runtimeconfig.json
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\bin\Debug\net9.0\lab-7-maze-SoL3209.dll
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\bin\Debug\net9.0\lab-7-maze-SoL3209.pdb
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\obj\Debug\net9.0\lab-7-maze-SoL3209.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\obj\Debug\net9.0\lab-7-maze-SoL3209.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\obj\Debug\net9.0\lab-7-maze-SoL3209.AssemblyInfo.cs
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\obj\Debug\net9.0\lab-7-maze-SoL3209.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\obj\Debug\net9.0\lab-7-maze-SoL3209.sourcelink.json
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\obj\Debug\net9.0\lab-7-maze-SoL3209.dll
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\obj\Debug\net9.0\refint\lab-7-maze-SoL3209.dll
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\obj\Debug\net9.0\lab-7-maze-SoL3209.pdb
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\obj\Debug\net9.0\lab-7-maze-SoL3209.genruntimeconfig.cache
+C:\Users\student\Desktop\my-code-dir\lab-7-maze-SoL3209\obj\Debug\net9.0\ref\lab-7-maze-SoL3209.dll
